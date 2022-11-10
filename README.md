@@ -2,7 +2,7 @@
   <img src= "https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height= "215px">
   <h1 align="center">Hello there, I'm Prince!</h1>
 
-  <p> I am a FullStack Engineer! </p>
+  <p> I am a FullStack Engineer. </p>
   <p>I have an extensive knowledge in HTML, CSS, JavaScript, Node.js, MongoDB, and React. My skills highly reflect across screens and teams I've worked with and am looking for my next endeavor in programming. Check out some projects I've worked on so far!</p>
   
   <p>CONTACT ME AT: </p>
