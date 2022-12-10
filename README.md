@@ -37,7 +37,7 @@
 <div/>
 
 <!--  https://img.shields.io/badge/Twitter-E9F0F0?style=for-the-badge&logo=github&logoColor=black  -->
-  ## Some projects I like!:
+  ## Projects
 
 <table style="width:100%; border="0"">
 	
@@ -56,8 +56,16 @@
 <tr>
 	<td colspan="3"> <img src="https://raw.githubusercontent.com/princeVillamil/portify/main/placeHolderAssets/ezgif-5-341f64c847.gif" width="70%"/> </td>
 </tr>
-	
+<!-- project two -->
+<tr>
+	<td><a target="_blank" href="https://blogio-production.up.railway.app/">BlogIO</a></td>
+	<td>HTML, CSS, EJS, JavaScript, Express, MongoDb, cloudinary, etc...</td>
+	<td>A full stack, blog / tweet app that anyone can see. Completed but could be better</td>
+</tr>
 
+<tr>
+	<td colspan="3"> <img src="https://github.com/princeVillamil/blogIO/blob/main/assets/blogio.gif" width="70%"/> </td>
+</tr>
 
 
 
