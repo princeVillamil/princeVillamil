@@ -37,3 +37,38 @@
 <div/>
 
 <!--  https://img.shields.io/badge/Twitter-E9F0F0?style=for-the-badge&logo=github&logoColor=black  -->
+  ## Some projects I like!:
+
+<table style="width:100%; border="0"">
+	
+<tr>
+	<th style="width:20%">Project</th>    
+  	<th style="width:30%">Main Tech Used</th>
+	<th style="width:50%">Descripton</th>
+</tr>
+	
+<tr>
+	<td><a target="_blank" href="https://github.com/princeVillamil/portify">Portify</a></td>
+	<td>HTML, CSS, React, JavaScript, Express, Styled Components etc</td>
+	<td>Project / simple port that can be added upon inspired@RussellCarey</td>
+</tr>
+
+<tr>
+	<td colspan="3"> <img src="https://raw.githubusercontent.com/princeVillamil/portify/main/placeHolderAssets/ezgif-5-341f64c847.gif" width="70%"/> </td>
+</tr>
+	
+
+
+
+
+
+	
+	
+
+	
+	
+
+
+
+</table>
+
