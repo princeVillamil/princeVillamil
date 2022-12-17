@@ -47,6 +47,29 @@
 	<th style="width:50%">Descripton</th>
 </tr>
 	
+<!-- project One -->
+<tr>
+	<td><a target="_blank" href="https://github.com/princeVillamil/gameStoreApp_game1v/blob/main/README.md">BlogIO</a></td>
+	<td>HTML, CSS, React, JavaScript, Express, MongoDb, etc...</td>
+	<td>A full stack, "store" where you can "buy" games with real auth and processes</td>
+</tr>
+
+<tr>
+	<td colspan="3"> <img src="https://raw.githubusercontent.com/princeVillamil/gameStoreApp_game1v/main/client/src/Assets/firstLook.png" width="70%"/> </td>
+</tr>
+	
+	
+<!-- project Two -->
+<tr>
+	<td><a target="_blank" href="https://blogio-production.up.railway.app/">Game1v</a></td>
+	<td>HTML, CSS, EJS, JavaScript, Express, MongoDb, cloudinary, etc...</td>
+	<td>A full stack, blog / tweet app that anyone can see. Completed but could be better</td>
+</tr>
+
+<tr>
+	<td colspan="3"> <img src="https://github.com/princeVillamil/blogIO/blob/main/assets/blogio.gif" width="70%"/> </td>
+</tr>
+<!-- project Three -->
 <tr>
 	<td><a target="_blank" href="https://github.com/princeVillamil/portify">Portify</a></td>
 	<td>HTML, CSS, React, JavaScript, Express, Styled Components etc</td>
@@ -56,16 +79,7 @@
 <tr>
 	<td colspan="3"> <img src="https://raw.githubusercontent.com/princeVillamil/portify/main/placeHolderAssets/ezgif-5-341f64c847.gif" width="70%"/> </td>
 </tr>
-<!-- project two -->
-<tr>
-	<td><a target="_blank" href="https://blogio-production.up.railway.app/">BlogIO</a></td>
-	<td>HTML, CSS, EJS, JavaScript, Express, MongoDb, cloudinary, etc...</td>
-	<td>A full stack, blog / tweet app that anyone can see. Completed but could be better</td>
-</tr>
 
-<tr>
-	<td colspan="3"> <img src="https://github.com/princeVillamil/blogIO/blob/main/assets/blogio.gif" width="70%"/> </td>
-</tr>
 
 
 
