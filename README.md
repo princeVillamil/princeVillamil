@@ -55,6 +55,7 @@
 </tr>
 
 <tr>
+<!-- Fix this	 -->
 	<td colspan="3"> <img src="https://raw.githubusercontent.com/princeVillamil/gameStoreApp_game1v/main/client/src/Assets/firstLook.png" width="70%"/> </td>
 </tr>
 	
