@@ -117,7 +117,7 @@
 <img src="https://img.shields.io/badge/Github-E9F0F0?style=for-the-badge&logo=github&logoColor=black"/>
 </a>  
 <a href="https://princejeffrey.netlify.app/index.html" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=5A749A"/>
 </a>	
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - My simple portfolio</p>
