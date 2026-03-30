@@ -105,7 +105,7 @@
 </div>
 </td>
 <td width="50%" valign="top">
-<h3 align="center" color="white">Portfolio</h2>
+<h3 align="center" color="white">Stat Track</h2>
 <div align="center" >  
 <a href='https://github.com/princeVillamil/stat_track'>
 <img src="https://github.com/princeVillamil/stat_track/blob/main/frontend/src/assets/deadlockleaderboard.png" alt="port img" height="100%" />
@@ -120,7 +120,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=5A749A"/>
 </a>	 -->
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - My simple portfolio</p>
+<p><strong>FastAPI, PostgreSQL, Redis, Celery, React, TypeScript, WebSockets, Docker, etc…</strong> - A real-time full-stack leaderboard system that ingests live game data, tracks player rank history, and delivers instant updates with high-performance caching and scalable backend architecture.</p>
 </div>	
 </td>
 </table>
