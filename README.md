@@ -107,18 +107,18 @@
 <td width="50%" valign="top">
 <h3 align="center" color="white">Portfolio</h2>
 <div align="center" >  
-<a href='https://princejeffrey.netlify.app/index.html'>
-<img src="https://github.com/princeVillamil/webpage-portfolio/blob/main/portfolio/assets/portgif.gif" alt="port img" height="100%" />
+<a href='https://github.com/princeVillamil/stat_track'>
+<img src="https://github.com/princeVillamil/stat_track/blob/main/frontend/src/assets/deadlockleaderboard.png" alt="port img" height="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/princeVillamil/webpage-portfolio" target="_blank">
+<a href="https://github.com/princeVillamil/stat_track" target="_blank">
 <img src="https://img.shields.io/badge/Github-E9F0F0?style=for-the-badge&logo=github&logoColor=black"/>
 </a>  
-<a href="https://princejeffrey.netlify.app/index.html" target="_blank">
+<!-- <a href="https://princejeffrey.netlify.app/index.html" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=5A749A"/>
-</a>	
+</a>	 -->
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - My simple portfolio</p>
 </div>	
