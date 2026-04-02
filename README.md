@@ -16,7 +16,7 @@
       <a href = "https://github.com/princeVillamil">
         <img src= "https://img.shields.io/badge/Github-E9F0F0?style=for-the-badge&logo=github&logoColor=black" alt="Githb Badge">
       </a> 
-      <a href = "https://princejeffrey.netlify.app/index.html">
+      <a href = "https://princejeffrey.netlify.app/index.html](https://portfolio-pttp5abt7-princevillamils-projects.vercel.app/">		  
         <img src= "https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=opsgenie&logoColor=black" alt="Githb Badge">
       </a> 
   </div>
