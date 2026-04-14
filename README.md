@@ -108,7 +108,7 @@
 <h3 align="center" color="white">Stat Track</h2>
 <div align="center" >  
 <a href='https://github.com/princeVillamil/stat_track'>
-<img src="https://github.com/princeVillamil/stat_track/blob/main/frontend/src/assets/deadlockleaderboard.png" alt="port img" height="100%" />
+<img src="https://github.com/princeVillamil/stat_track/blob/main/frontend/src/assets/DeadlockLeaderboardImgUpdate.jpg" alt="port img" height="100%" />
 </a>
 <br>
 <br>
